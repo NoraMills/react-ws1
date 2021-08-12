@@ -1,0 +1,21 @@
+table {
+  margin: left;
+  padding-left: 10px;
+  padding-top: 0px;
+  padding-right: 10px;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+tr {
+  border: 1px solid #e0607e;
+}
+td {
+  border: 1px solid #444547;
+  padding: 10px 30px;
+  background-color: #163a63;
+  color: #fff;
+}
+h3 {
+  margin: 20px;
+  padding-bottom: 0;
+}
